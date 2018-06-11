@@ -86,7 +86,7 @@ In order to make the links above clickable or to view these links period, you wi
 #### "The Code Is The Law" - Stan Larimer - Godfather of BitShares.
 
 ## License
-[MIT](LICENSE)
+[BSD-3-CLAUSE](LICENSE)
 <br><br>
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 <br>
