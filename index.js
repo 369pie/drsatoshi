@@ -7,9 +7,9 @@ var dPackJobs = require('dpack-jobs')
 var chalk = require('chalk')
 var Menu = require('menu-string')
 var debug = require('debug')('drsatoshi')
-var SatoshiJobs = require('./lib/satoshi-jobs')
-var satoshiPeerJobs = require('./lib/satoshi-peer-job')
-var peerTest = require('./lib/satoshi-inspect-peer')
+var SatoshiJobs = require('./hospital/satoshi-jobs')
+var satoshiPeerJobs = require('./hospital/satoshi-peer-job')
+var peerTest = require('./hospital/satoshi-inspect-peer')
 
 var NODE_VER = process.version
 var DRSATOSHI_RELEASE = require('./package.json').version

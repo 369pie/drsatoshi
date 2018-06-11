@@ -1,6 +1,6 @@
 {
   "name": "drsatoshi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "dWeb and dPack On-Call Network Doctor. When You Gotta Know, Call Satoshi.",
   "main": "index.js",
   "bin": {
