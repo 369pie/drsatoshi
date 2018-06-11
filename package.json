@@ -1,0 +1,26 @@
+{
+  "name": "drsatoshi",
+  "version": "1.0.1",
+  "description": "dWeb and dPack On-Call Network Doctor. When You Gotta Know, Call Satoshi.",
+  "main": "index.js",
+  "bin": {
+    "satoshi": "cli.js"
+  },
+  "author": "Distributed Webs Project",
+  "license": "MIT",
+  "repository": "distributedweb/drsatoshi",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "dethunk": "*",
+    "dweb-channel": "*",
+    "dweb-flock-policy": "*",
+    "debug": "^3.1.0",
+    "dpack-logger": "*",
+    "dpack-jobs": "*",
+    "drevelation": "*",
+    "figures": "^2.0.0",
+    "menu-string": "^1.2.0",
+    "minimist": "^1.2.0",
+    "p2pdnsr": "*"
+  }
+}
